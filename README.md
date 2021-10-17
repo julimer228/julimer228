@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Julia
-- 🌱 I’m currently learning C++, R, SQL
+- 🌱 I’m currently learning C++, R, SQL, Java
 - IT student at Silesian University of Technology
