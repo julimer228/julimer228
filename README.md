@@ -4,7 +4,4 @@
 
 ## 📈 GitHub Stats 
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=julimer228)](https://github.com/julimer228)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=julimer228&layout=compact)](https://github.com/julimer228)
-
+[![Github stats](https://github-readme-stats.vercel.app/api?username=julimer228&show_icons=true&theme=dark)](https://github.com/julimer228)
