@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Julia
-- Master's degree student in computer science at Silesian University of Technology
+- MSc in Computer Science
 - Master's degree student in data science at Silesian University of Technology
 
 
